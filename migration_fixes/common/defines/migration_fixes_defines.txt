@@ -1,3 +1,3 @@
 ﻿NPops = {
-	MARKET_MIGRATION_MIN_POP_FRACTION_TO_MOVE = 0.05							# If the people wanting to migrate constitues less than this fraction of a pop, no new pop will be created and they won't migrate.
+	MARKET_MIGRATION_MIN_POP_FRACTION_TO_MOVE = 0.00001							# If the people wanting to migrate constitues less than this fraction of a pop, no new pop will be created and they won't migrate.
 }
