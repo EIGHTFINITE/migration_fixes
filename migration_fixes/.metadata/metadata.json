@@ -1,0 +1,12 @@
+{
+  "name" : "migration_fixes",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "",
+  "short_description" : "",
+  "tags" : ["Balance", "Cultures And Religions", "Economy And Buildings", "Fixes", "Gameplay", "Pops", "Utilities"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
