@@ -1,0 +1,12 @@
+﻿# Root = Country
+on_monthly_pulse_country = {
+	events = {
+	}
+
+	effect = {
+		trigger_event = { id = migration_fixes.1 }
+	}
+
+	on_actions = {
+	}
+}
