@@ -30,5 +30,8 @@ on_monthly_pulse_country = {
 	}
 
 	on_actions = {
+		on_bpm_monthly_pulse_country
+		bpm_update_enactment_success_on_action
+		bpm_on_actions_colonial_check
 	}
 }
