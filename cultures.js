@@ -339,7 +339,10 @@
 		string += '								culture = cu:'+cultures[i]+'\n';
 		string += '								NOT = { is_pop_type = slaves }\n';
 		string += '							}\n';
-		string += '							move_pop = scope:migration_fixes_'+cultures[i]+'_state\n';
+		string += '							move_partial_pop = {\n';
+		string += '								scope:migration_fixes_'+cultures[i]+'_state\n';
+		string += '								population = 1\n';
+		string += '							}\n';
 		string += '						}\n';
 		string += '					}\n';
 		string += '					if = {\n';
