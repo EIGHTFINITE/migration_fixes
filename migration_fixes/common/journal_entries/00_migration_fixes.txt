@@ -1,0 +1,28 @@
+﻿je_migration_fixes = {
+	icon = "gfx/interface/icons/state_status_icons/mass_migration_target.dds"
+
+	group = je_group_crises
+
+	is_shown_when_inactive = {
+		NOT = { has_variable = migration_fixes_active }
+	}
+
+	possible = {
+		hidden_trigger = { NOT = { has_variable = migration_fixes_active } }
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				NOT = { has_variable = migration_fixes_active }
+			}
+			trigger_event = { id = migration_fixes.1 }
+		}
+	}
+
+	complete = {
+		has_variable = migration_fixes_active
+	}
+
+	weight = 0
+}
