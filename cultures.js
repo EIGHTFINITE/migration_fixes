@@ -363,6 +363,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 10\n';
 		string += '									}\n';
@@ -370,6 +371,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 10\n';
 		string += '									}\n';
@@ -380,6 +382,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 20\n';
 		string += '									}\n';
@@ -387,6 +390,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 20\n';
 		string += '									}\n';
@@ -397,6 +401,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 40\n';
 		string += '									}\n';
@@ -404,6 +409,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 40\n';
 		string += '									}\n';
@@ -414,6 +420,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 80\n';
 		string += '									}\n';
@@ -421,6 +428,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 80\n';
 		string += '									}\n';
@@ -431,6 +439,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 160\n';
 		string += '									}\n';
@@ -438,6 +447,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 160\n';
 		string += '									}\n';
@@ -448,6 +458,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 320\n';
 		string += '									}\n';
@@ -455,6 +466,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 320\n';
 		string += '									}\n';
@@ -465,6 +477,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 640\n';
 		string += '									}\n';
@@ -472,6 +485,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 640\n';
 		string += '									}\n';
@@ -482,6 +496,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 1280\n';
 		string += '									}\n';
@@ -489,6 +504,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 1280\n';
 		string += '									}\n';
@@ -499,6 +515,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 2560\n';
 		string += '									}\n';
@@ -506,6 +523,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 2560\n';
 		string += '									}\n';
@@ -516,6 +534,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 5120\n';
 		string += '									}\n';
@@ -523,6 +542,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 5120\n';
 		string += '									}\n';
@@ -533,6 +553,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 10240\n';
 		string += '									}\n';
@@ -540,6 +561,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 10240\n';
 		string += '									}\n';
@@ -550,6 +572,7 @@
 		string += '								limit = {\n';
 		string += '									any_scope_pop = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 20480\n';
 		string += '									}\n';
@@ -557,6 +580,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '										total_size <= 20480\n';
 		string += '									}\n';
@@ -567,6 +591,7 @@
 		string += '								random_scope_pop = {\n';
 		string += '									limit = {\n';
 		string += '										culture = cu:'+cultures[i]+'\n';
+		string += '										strata = lower\n';
 		string += '										NOT = { is_pop_type = slaves }\n';
 		string += '									}\n';
 		string += '									move_pop = scope:migration_fixes_target_'+cultures[i]+'_state\n';
