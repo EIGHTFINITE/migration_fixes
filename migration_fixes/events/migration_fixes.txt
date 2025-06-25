@@ -283,14 +283,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:welsh }
+								any_scope_pop = {
+									culture = cu:welsh
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:welsh }
+								any_scope_pop = {
+									culture = cu:welsh
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_welsh_state
 						}
@@ -592,14 +598,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:scottish }
+								any_scope_pop = {
+									culture = cu:scottish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:scottish }
+								any_scope_pop = {
+									culture = cu:scottish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_scottish_state
 						}
@@ -901,14 +913,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:galician }
+								any_scope_pop = {
+									culture = cu:galician
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:galician }
+								any_scope_pop = {
+									culture = cu:galician
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_galician_state
 						}
@@ -1210,14 +1228,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malay }
+								any_scope_pop = {
+									culture = cu:malay
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malay }
+								any_scope_pop = {
+									culture = cu:malay
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_malay_state
 						}
@@ -1519,14 +1543,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bornean }
+								any_scope_pop = {
+									culture = cu:bornean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bornean }
+								any_scope_pop = {
+									culture = cu:bornean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bornean_state
 						}
@@ -1828,14 +1858,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sumatran }
+								any_scope_pop = {
+									culture = cu:sumatran
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sumatran }
+								any_scope_pop = {
+									culture = cu:sumatran
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sumatran_state
 						}
@@ -2137,14 +2173,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:balinese }
+								any_scope_pop = {
+									culture = cu:balinese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:balinese }
+								any_scope_pop = {
+									culture = cu:balinese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_balinese_state
 						}
@@ -2446,14 +2488,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cajun }
+								any_scope_pop = {
+									culture = cu:cajun
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cajun }
+								any_scope_pop = {
+									culture = cu:cajun
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_cajun_state
 						}
@@ -2755,14 +2803,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:assyrian }
+								any_scope_pop = {
+									culture = cu:assyrian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:assyrian }
+								any_scope_pop = {
+									culture = cu:assyrian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_assyrian_state
 						}
@@ -3064,14 +3118,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:circassian }
+								any_scope_pop = {
+									culture = cu:circassian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:circassian }
+								any_scope_pop = {
+									culture = cu:circassian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_circassian_state
 						}
@@ -3373,14 +3433,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:francoprovencal }
+								any_scope_pop = {
+									culture = cu:francoprovencal
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:francoprovencal }
+								any_scope_pop = {
+									culture = cu:francoprovencal
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_francoprovencal_state
 						}
@@ -3682,14 +3748,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chechen }
+								any_scope_pop = {
+									culture = cu:chechen
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chechen }
+								any_scope_pop = {
+									culture = cu:chechen
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_chechen_state
 						}
@@ -3991,14 +4063,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:karelian }
+								any_scope_pop = {
+									culture = cu:karelian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:karelian }
+								any_scope_pop = {
+									culture = cu:karelian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_karelian_state
 						}
@@ -4300,14 +4378,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bashkir }
+								any_scope_pop = {
+									culture = cu:bashkir
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bashkir }
+								any_scope_pop = {
+									culture = cu:bashkir
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bashkir_state
 						}
@@ -4609,14 +4693,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:buryat }
+								any_scope_pop = {
+									culture = cu:buryat
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:buryat }
+								any_scope_pop = {
+									culture = cu:buryat
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_buryat_state
 						}
@@ -4918,14 +5008,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mordvin }
+								any_scope_pop = {
+									culture = cu:mordvin
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mordvin }
+								any_scope_pop = {
+									culture = cu:mordvin
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mordvin_state
 						}
@@ -5227,14 +5323,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chuvash }
+								any_scope_pop = {
+									culture = cu:chuvash
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chuvash }
+								any_scope_pop = {
+									culture = cu:chuvash
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_chuvash_state
 						}
@@ -5536,14 +5638,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mari }
+								any_scope_pop = {
+									culture = cu:mari
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mari }
+								any_scope_pop = {
+									culture = cu:mari
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mari_state
 						}
@@ -5845,14 +5953,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:udmurt }
+								any_scope_pop = {
+									culture = cu:udmurt
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:udmurt }
+								any_scope_pop = {
+									culture = cu:udmurt
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_udmurt_state
 						}
@@ -6154,14 +6268,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mazanderani }
+								any_scope_pop = {
+									culture = cu:mazanderani
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mazanderani }
+								any_scope_pop = {
+									culture = cu:mazanderani
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mazanderani_state
 						}
@@ -6463,14 +6583,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luri }
+								any_scope_pop = {
+									culture = cu:luri
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luri }
+								any_scope_pop = {
+									culture = cu:luri
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_luri_state
 						}
@@ -6772,14 +6898,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kho }
+								any_scope_pop = {
+									culture = cu:kho
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kho }
+								any_scope_pop = {
+									culture = cu:kho
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kho_state
 						}
@@ -7081,14 +7213,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_german }
+								any_scope_pop = {
+									culture = cu:north_german
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_german }
+								any_scope_pop = {
+									culture = cu:north_german
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_north_german_state
 						}
@@ -7390,14 +7528,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_german }
+								any_scope_pop = {
+									culture = cu:south_german
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_german }
+								any_scope_pop = {
+									culture = cu:south_german
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_south_german_state
 						}
@@ -7699,14 +7843,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ashkenazi }
+								any_scope_pop = {
+									culture = cu:ashkenazi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ashkenazi }
+								any_scope_pop = {
+									culture = cu:ashkenazi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ashkenazi_state
 						}
@@ -8008,14 +8158,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dutch }
+								any_scope_pop = {
+									culture = cu:dutch
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dutch }
+								any_scope_pop = {
+									culture = cu:dutch
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dutch_state
 						}
@@ -8317,14 +8473,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:flemish }
+								any_scope_pop = {
+									culture = cu:flemish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:flemish }
+								any_scope_pop = {
+									culture = cu:flemish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_flemish_state
 						}
@@ -8626,14 +8788,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:wallonian }
+								any_scope_pop = {
+									culture = cu:wallonian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:wallonian }
+								any_scope_pop = {
+									culture = cu:wallonian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_wallonian_state
 						}
@@ -8935,14 +9103,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:boer }
+								any_scope_pop = {
+									culture = cu:boer
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:boer }
+								any_scope_pop = {
+									culture = cu:boer
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_boer_state
 						}
@@ -9244,14 +9418,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:alemannic }
+								any_scope_pop = {
+									culture = cu:alemannic
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:alemannic }
+								any_scope_pop = {
+									culture = cu:alemannic
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_alemannic_state
 						}
@@ -9553,14 +9733,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:swedish }
+								any_scope_pop = {
+									culture = cu:swedish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:swedish }
+								any_scope_pop = {
+									culture = cu:swedish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_swedish_state
 						}
@@ -9862,14 +10048,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:danish }
+								any_scope_pop = {
+									culture = cu:danish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:danish }
+								any_scope_pop = {
+									culture = cu:danish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_danish_state
 						}
@@ -10171,14 +10363,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:norwegian }
+								any_scope_pop = {
+									culture = cu:norwegian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:norwegian }
+								any_scope_pop = {
+									culture = cu:norwegian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_norwegian_state
 						}
@@ -10480,14 +10678,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:icelandic }
+								any_scope_pop = {
+									culture = cu:icelandic
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:icelandic }
+								any_scope_pop = {
+									culture = cu:icelandic
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_icelandic_state
 						}
@@ -10789,14 +10993,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:finnish }
+								any_scope_pop = {
+									culture = cu:finnish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:finnish }
+								any_scope_pop = {
+									culture = cu:finnish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_finnish_state
 						}
@@ -11098,14 +11308,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sami }
+								any_scope_pop = {
+									culture = cu:sami
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sami }
+								any_scope_pop = {
+									culture = cu:sami
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sami_state
 						}
@@ -11407,14 +11623,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:british }
+								any_scope_pop = {
+									culture = cu:british
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:british }
+								any_scope_pop = {
+									culture = cu:british
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_british_state
 						}
@@ -11716,14 +11938,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:irish }
+								any_scope_pop = {
+									culture = cu:irish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:irish }
+								any_scope_pop = {
+									culture = cu:irish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_irish_state
 						}
@@ -12025,14 +12253,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:australian }
+								any_scope_pop = {
+									culture = cu:australian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:australian }
+								any_scope_pop = {
+									culture = cu:australian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_australian_state
 						}
@@ -12334,14 +12568,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_italian }
+								any_scope_pop = {
+									culture = cu:north_italian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_italian }
+								any_scope_pop = {
+									culture = cu:north_italian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_north_italian_state
 						}
@@ -12643,14 +12883,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_italian }
+								any_scope_pop = {
+									culture = cu:south_italian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_italian }
+								any_scope_pop = {
+									culture = cu:south_italian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_south_italian_state
 						}
@@ -12952,14 +13198,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maltese }
+								any_scope_pop = {
+									culture = cu:maltese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maltese }
+								any_scope_pop = {
+									culture = cu:maltese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_maltese_state
 						}
@@ -13261,14 +13513,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:basque }
+								any_scope_pop = {
+									culture = cu:basque
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:basque }
+								any_scope_pop = {
+									culture = cu:basque
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_basque_state
 						}
@@ -13570,14 +13828,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:spanish }
+								any_scope_pop = {
+									culture = cu:spanish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:spanish }
+								any_scope_pop = {
+									culture = cu:spanish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_spanish_state
 						}
@@ -13879,14 +14143,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:catalan }
+								any_scope_pop = {
+									culture = cu:catalan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:catalan }
+								any_scope_pop = {
+									culture = cu:catalan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_catalan_state
 						}
@@ -14188,14 +14458,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:portuguese }
+								any_scope_pop = {
+									culture = cu:portuguese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:portuguese }
+								any_scope_pop = {
+									culture = cu:portuguese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_portuguese_state
 						}
@@ -14497,14 +14773,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:french }
+								any_scope_pop = {
+									culture = cu:french
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:french }
+								any_scope_pop = {
+									culture = cu:french
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_french_state
 						}
@@ -14806,14 +15088,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:occitan }
+								any_scope_pop = {
+									culture = cu:occitan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:occitan }
+								any_scope_pop = {
+									culture = cu:occitan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_occitan_state
 						}
@@ -15115,14 +15403,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:breton }
+								any_scope_pop = {
+									culture = cu:breton
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:breton }
+								any_scope_pop = {
+									culture = cu:breton
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_breton_state
 						}
@@ -15424,14 +15718,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:croat }
+								any_scope_pop = {
+									culture = cu:croat
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:croat }
+								any_scope_pop = {
+									culture = cu:croat
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_croat_state
 						}
@@ -15733,14 +16033,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:serb }
+								any_scope_pop = {
+									culture = cu:serb
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:serb }
+								any_scope_pop = {
+									culture = cu:serb
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_serb_state
 						}
@@ -16042,14 +16348,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bulgarian }
+								any_scope_pop = {
+									culture = cu:bulgarian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bulgarian }
+								any_scope_pop = {
+									culture = cu:bulgarian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bulgarian_state
 						}
@@ -16351,14 +16663,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:albanian }
+								any_scope_pop = {
+									culture = cu:albanian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:albanian }
+								any_scope_pop = {
+									culture = cu:albanian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_albanian_state
 						}
@@ -16660,14 +16978,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:slovene }
+								any_scope_pop = {
+									culture = cu:slovene
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:slovene }
+								any_scope_pop = {
+									culture = cu:slovene
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_slovene_state
 						}
@@ -16969,14 +17293,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bosniak }
+								any_scope_pop = {
+									culture = cu:bosniak
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bosniak }
+								any_scope_pop = {
+									culture = cu:bosniak
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bosniak_state
 						}
@@ -17278,14 +17608,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:romanian }
+								any_scope_pop = {
+									culture = cu:romanian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:romanian }
+								any_scope_pop = {
+									culture = cu:romanian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_romanian_state
 						}
@@ -17587,14 +17923,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hungarian }
+								any_scope_pop = {
+									culture = cu:hungarian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hungarian }
+								any_scope_pop = {
+									culture = cu:hungarian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hungarian_state
 						}
@@ -17896,14 +18238,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:polish }
+								any_scope_pop = {
+									culture = cu:polish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:polish }
+								any_scope_pop = {
+									culture = cu:polish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_polish_state
 						}
@@ -18205,14 +18553,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lithuanian }
+								any_scope_pop = {
+									culture = cu:lithuanian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lithuanian }
+								any_scope_pop = {
+									culture = cu:lithuanian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lithuanian_state
 						}
@@ -18514,14 +18868,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:czech }
+								any_scope_pop = {
+									culture = cu:czech
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:czech }
+								any_scope_pop = {
+									culture = cu:czech
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_czech_state
 						}
@@ -18823,14 +19183,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:slovak }
+								any_scope_pop = {
+									culture = cu:slovak
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:slovak }
+								any_scope_pop = {
+									culture = cu:slovak
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_slovak_state
 						}
@@ -19132,14 +19498,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:russian }
+								any_scope_pop = {
+									culture = cu:russian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:russian }
+								any_scope_pop = {
+									culture = cu:russian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_russian_state
 						}
@@ -19441,14 +19813,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:byelorussian }
+								any_scope_pop = {
+									culture = cu:byelorussian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:byelorussian }
+								any_scope_pop = {
+									culture = cu:byelorussian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_byelorussian_state
 						}
@@ -19750,14 +20128,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ukrainian }
+								any_scope_pop = {
+									culture = cu:ukrainian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ukrainian }
+								any_scope_pop = {
+									culture = cu:ukrainian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ukrainian_state
 						}
@@ -20059,14 +20443,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ugrian }
+								any_scope_pop = {
+									culture = cu:ugrian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ugrian }
+								any_scope_pop = {
+									culture = cu:ugrian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ugrian_state
 						}
@@ -20368,14 +20758,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:latvian }
+								any_scope_pop = {
+									culture = cu:latvian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:latvian }
+								any_scope_pop = {
+									culture = cu:latvian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_latvian_state
 						}
@@ -20677,14 +21073,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:estonian }
+								any_scope_pop = {
+									culture = cu:estonian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:estonian }
+								any_scope_pop = {
+									culture = cu:estonian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_estonian_state
 						}
@@ -20986,14 +21388,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:greek }
+								any_scope_pop = {
+									culture = cu:greek
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:greek }
+								any_scope_pop = {
+									culture = cu:greek
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_greek_state
 						}
@@ -21295,14 +21703,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:georgian }
+								any_scope_pop = {
+									culture = cu:georgian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:georgian }
+								any_scope_pop = {
+									culture = cu:georgian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_georgian_state
 						}
@@ -21604,14 +22018,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:armenian }
+								any_scope_pop = {
+									culture = cu:armenian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:armenian }
+								any_scope_pop = {
+									culture = cu:armenian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_armenian_state
 						}
@@ -21913,14 +22333,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sephardic }
+								any_scope_pop = {
+									culture = cu:sephardic
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sephardic }
+								any_scope_pop = {
+									culture = cu:sephardic
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sephardic_state
 						}
@@ -22222,14 +22648,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:turkish }
+								any_scope_pop = {
+									culture = cu:turkish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:turkish }
+								any_scope_pop = {
+									culture = cu:turkish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_turkish_state
 						}
@@ -22531,14 +22963,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:azerbaijani }
+								any_scope_pop = {
+									culture = cu:azerbaijani
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:azerbaijani }
+								any_scope_pop = {
+									culture = cu:azerbaijani
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_azerbaijani_state
 						}
@@ -22840,14 +23278,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_caucasian }
+								any_scope_pop = {
+									culture = cu:north_caucasian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_caucasian }
+								any_scope_pop = {
+									culture = cu:north_caucasian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_north_caucasian_state
 						}
@@ -23149,14 +23593,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maghrebi }
+								any_scope_pop = {
+									culture = cu:maghrebi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maghrebi }
+								any_scope_pop = {
+									culture = cu:maghrebi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_maghrebi_state
 						}
@@ -23458,14 +23908,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:misri }
+								any_scope_pop = {
+									culture = cu:misri
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:misri }
+								any_scope_pop = {
+									culture = cu:misri
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_misri_state
 						}
@@ -23767,14 +24223,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mashriqi }
+								any_scope_pop = {
+									culture = cu:mashriqi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mashriqi }
+								any_scope_pop = {
+									culture = cu:mashriqi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mashriqi_state
 						}
@@ -24076,14 +24538,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bedouin }
+								any_scope_pop = {
+									culture = cu:bedouin
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bedouin }
+								any_scope_pop = {
+									culture = cu:bedouin
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bedouin_state
 						}
@@ -24385,14 +24853,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:berber }
+								any_scope_pop = {
+									culture = cu:berber
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:berber }
+								any_scope_pop = {
+									culture = cu:berber
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_berber_state
 						}
@@ -24694,14 +25168,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:persian }
+								any_scope_pop = {
+									culture = cu:persian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:persian }
+								any_scope_pop = {
+									culture = cu:persian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_persian_state
 						}
@@ -25003,14 +25483,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uzbek }
+								any_scope_pop = {
+									culture = cu:uzbek
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uzbek }
+								any_scope_pop = {
+									culture = cu:uzbek
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_uzbek_state
 						}
@@ -25312,14 +25798,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kazak }
+								any_scope_pop = {
+									culture = cu:kazak
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kazak }
+								any_scope_pop = {
+									culture = cu:kazak
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kazak_state
 						}
@@ -25621,14 +26113,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kirgiz }
+								any_scope_pop = {
+									culture = cu:kirgiz
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kirgiz }
+								any_scope_pop = {
+									culture = cu:kirgiz
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kirgiz_state
 						}
@@ -25930,14 +26428,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tajik }
+								any_scope_pop = {
+									culture = cu:tajik
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tajik }
+								any_scope_pop = {
+									culture = cu:tajik
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tajik_state
 						}
@@ -26239,14 +26743,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uighur }
+								any_scope_pop = {
+									culture = cu:uighur
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uighur }
+								any_scope_pop = {
+									culture = cu:uighur
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_uighur_state
 						}
@@ -26548,14 +27058,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pashtun }
+								any_scope_pop = {
+									culture = cu:pashtun
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pashtun }
+								any_scope_pop = {
+									culture = cu:pashtun
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_pashtun_state
 						}
@@ -26857,14 +27373,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baluchi }
+								any_scope_pop = {
+									culture = cu:baluchi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baluchi }
+								any_scope_pop = {
+									culture = cu:baluchi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_baluchi_state
 						}
@@ -27166,14 +27688,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hazara }
+								any_scope_pop = {
+									culture = cu:hazara
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hazara }
+								any_scope_pop = {
+									culture = cu:hazara
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hazara_state
 						}
@@ -27475,14 +28003,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:turkmen }
+								any_scope_pop = {
+									culture = cu:turkmen
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:turkmen }
+								any_scope_pop = {
+									culture = cu:turkmen
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_turkmen_state
 						}
@@ -27784,14 +28318,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kurdish }
+								any_scope_pop = {
+									culture = cu:kurdish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kurdish }
+								any_scope_pop = {
+									culture = cu:kurdish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kurdish_state
 						}
@@ -28093,14 +28633,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tatar }
+								any_scope_pop = {
+									culture = cu:tatar
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tatar }
+								any_scope_pop = {
+									culture = cu:tatar
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tatar_state
 						}
@@ -28402,14 +28948,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mongol }
+								any_scope_pop = {
+									culture = cu:mongol
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mongol }
+								any_scope_pop = {
+									culture = cu:mongol
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mongol_state
 						}
@@ -28711,14 +29263,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kalmyk }
+								any_scope_pop = {
+									culture = cu:kalmyk
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kalmyk }
+								any_scope_pop = {
+									culture = cu:kalmyk
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kalmyk_state
 						}
@@ -29020,14 +29578,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:siberian }
+								any_scope_pop = {
+									culture = cu:siberian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:siberian }
+								any_scope_pop = {
+									culture = cu:siberian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_siberian_state
 						}
@@ -29329,14 +29893,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yakut }
+								any_scope_pop = {
+									culture = cu:yakut
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yakut }
+								any_scope_pop = {
+									culture = cu:yakut
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yakut_state
 						}
@@ -29638,14 +30208,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tibetan }
+								any_scope_pop = {
+									culture = cu:tibetan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tibetan }
+								any_scope_pop = {
+									culture = cu:tibetan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tibetan_state
 						}
@@ -29947,14 +30523,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:assamese }
+								any_scope_pop = {
+									culture = cu:assamese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:assamese }
+								any_scope_pop = {
+									culture = cu:assamese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_assamese_state
 						}
@@ -30256,14 +30838,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bihari }
+								any_scope_pop = {
+									culture = cu:bihari
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bihari }
+								any_scope_pop = {
+									culture = cu:bihari
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bihari_state
 						}
@@ -30565,14 +31153,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:manipuri }
+								any_scope_pop = {
+									culture = cu:manipuri
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:manipuri }
+								any_scope_pop = {
+									culture = cu:manipuri
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_manipuri_state
 						}
@@ -30874,14 +31468,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nepali }
+								any_scope_pop = {
+									culture = cu:nepali
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nepali }
+								any_scope_pop = {
+									culture = cu:nepali
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nepali_state
 						}
@@ -31183,14 +31783,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oriya }
+								any_scope_pop = {
+									culture = cu:oriya
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oriya }
+								any_scope_pop = {
+									culture = cu:oriya
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_oriya_state
 						}
@@ -31492,14 +32098,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sinhala }
+								any_scope_pop = {
+									culture = cu:sinhala
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sinhala }
+								any_scope_pop = {
+									culture = cu:sinhala
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sinhala_state
 						}
@@ -31801,14 +32413,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:avadhi }
+								any_scope_pop = {
+									culture = cu:avadhi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:avadhi }
+								any_scope_pop = {
+									culture = cu:avadhi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_avadhi_state
 						}
@@ -32110,14 +32728,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:panjabi }
+								any_scope_pop = {
+									culture = cu:panjabi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:panjabi }
+								any_scope_pop = {
+									culture = cu:panjabi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_panjabi_state
 						}
@@ -32419,14 +33043,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kashmiri }
+								any_scope_pop = {
+									culture = cu:kashmiri
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kashmiri }
+								any_scope_pop = {
+									culture = cu:kashmiri
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kashmiri_state
 						}
@@ -32728,14 +33358,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sindi }
+								any_scope_pop = {
+									culture = cu:sindi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sindi }
+								any_scope_pop = {
+									culture = cu:sindi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sindi_state
 						}
@@ -33037,14 +33673,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:rajput }
+								any_scope_pop = {
+									culture = cu:rajput
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:rajput }
+								any_scope_pop = {
+									culture = cu:rajput
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_rajput_state
 						}
@@ -33346,14 +33988,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kannada }
+								any_scope_pop = {
+									culture = cu:kannada
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kannada }
+								any_scope_pop = {
+									culture = cu:kannada
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kannada_state
 						}
@@ -33655,14 +34303,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malayalam }
+								any_scope_pop = {
+									culture = cu:malayalam
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malayalam }
+								any_scope_pop = {
+									culture = cu:malayalam
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_malayalam_state
 						}
@@ -33964,14 +34618,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:telegu }
+								any_scope_pop = {
+									culture = cu:telegu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:telegu }
+								any_scope_pop = {
+									culture = cu:telegu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_telegu_state
 						}
@@ -34273,14 +34933,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:vietnamese }
+								any_scope_pop = {
+									culture = cu:vietnamese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:vietnamese }
+								any_scope_pop = {
+									culture = cu:vietnamese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_vietnamese_state
 						}
@@ -34582,14 +35248,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khmer }
+								any_scope_pop = {
+									culture = cu:khmer
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khmer }
+								any_scope_pop = {
+									culture = cu:khmer
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_khmer_state
 						}
@@ -34891,14 +35563,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:batak }
+								any_scope_pop = {
+									culture = cu:batak
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:batak }
+								any_scope_pop = {
+									culture = cu:batak
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_batak_state
 						}
@@ -35200,14 +35878,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dayak }
+								any_scope_pop = {
+									culture = cu:dayak
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dayak }
+								any_scope_pop = {
+									culture = cu:dayak
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dayak_state
 						}
@@ -35509,14 +36193,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malagasy }
+								any_scope_pop = {
+									culture = cu:malagasy
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:malagasy }
+								any_scope_pop = {
+									culture = cu:malagasy
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_malagasy_state
 						}
@@ -35818,14 +36508,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:filipino }
+								any_scope_pop = {
+									culture = cu:filipino
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:filipino }
+								any_scope_pop = {
+									culture = cu:filipino
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_filipino_state
 						}
@@ -36127,14 +36823,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:moro }
+								any_scope_pop = {
+									culture = cu:moro
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:moro }
+								any_scope_pop = {
+									culture = cu:moro
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_moro_state
 						}
@@ -36436,14 +37138,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:javan }
+								any_scope_pop = {
+									culture = cu:javan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:javan }
+								any_scope_pop = {
+									culture = cu:javan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_javan_state
 						}
@@ -36745,14 +37453,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:moluccan }
+								any_scope_pop = {
+									culture = cu:moluccan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:moluccan }
+								any_scope_pop = {
+									culture = cu:moluccan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_moluccan_state
 						}
@@ -37054,14 +37768,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:thai }
+								any_scope_pop = {
+									culture = cu:thai
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:thai }
+								any_scope_pop = {
+									culture = cu:thai
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_thai_state
 						}
@@ -37363,14 +38083,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mon }
+								any_scope_pop = {
+									culture = cu:mon
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mon }
+								any_scope_pop = {
+									culture = cu:mon
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mon_state
 						}
@@ -37672,14 +38398,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khmu }
+								any_scope_pop = {
+									culture = cu:khmu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khmu }
+								any_scope_pop = {
+									culture = cu:khmu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_khmu_state
 						}
@@ -37981,14 +38713,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lao }
+								any_scope_pop = {
+									culture = cu:lao
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lao }
+								any_scope_pop = {
+									culture = cu:lao
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lao_state
 						}
@@ -38290,14 +39028,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:shan }
+								any_scope_pop = {
+									culture = cu:shan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:shan }
+								any_scope_pop = {
+									culture = cu:shan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_shan_state
 						}
@@ -38599,14 +39343,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:burmese }
+								any_scope_pop = {
+									culture = cu:burmese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:burmese }
+								any_scope_pop = {
+									culture = cu:burmese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_burmese_state
 						}
@@ -38908,14 +39658,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kachin }
+								any_scope_pop = {
+									culture = cu:kachin
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kachin }
+								any_scope_pop = {
+									culture = cu:kachin
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kachin_state
 						}
@@ -39217,14 +39973,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:karen }
+								any_scope_pop = {
+									culture = cu:karen
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:karen }
+								any_scope_pop = {
+									culture = cu:karen
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_karen_state
 						}
@@ -39526,14 +40288,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:japanese }
+								any_scope_pop = {
+									culture = cu:japanese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:japanese }
+								any_scope_pop = {
+									culture = cu:japanese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_japanese_state
 						}
@@ -39835,14 +40603,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:manchu }
+								any_scope_pop = {
+									culture = cu:manchu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:manchu }
+								any_scope_pop = {
+									culture = cu:manchu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_manchu_state
 						}
@@ -40144,14 +40918,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:han }
+								any_scope_pop = {
+									culture = cu:han
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:han }
+								any_scope_pop = {
+									culture = cu:han
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_han_state
 						}
@@ -40453,14 +41233,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:korean }
+								any_scope_pop = {
+									culture = cu:korean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:korean }
+								any_scope_pop = {
+									culture = cu:korean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_korean_state
 						}
@@ -40762,14 +41548,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ainu }
+								any_scope_pop = {
+									culture = cu:ainu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ainu }
+								any_scope_pop = {
+									culture = cu:ainu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ainu_state
 						}
@@ -41071,14 +41863,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hakka }
+								any_scope_pop = {
+									culture = cu:hakka
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hakka }
+								any_scope_pop = {
+									culture = cu:hakka
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hakka_state
 						}
@@ -41380,14 +42178,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:miao }
+								any_scope_pop = {
+									culture = cu:miao
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:miao }
+								any_scope_pop = {
+									culture = cu:miao
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_miao_state
 						}
@@ -41689,14 +42493,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:min }
+								any_scope_pop = {
+									culture = cu:min
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:min }
+								any_scope_pop = {
+									culture = cu:min
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_min_state
 						}
@@ -41998,14 +42808,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zhuang }
+								any_scope_pop = {
+									culture = cu:zhuang
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zhuang }
+								any_scope_pop = {
+									culture = cu:zhuang
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_zhuang_state
 						}
@@ -42307,14 +43123,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yi }
+								any_scope_pop = {
+									culture = cu:yi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yi }
+								any_scope_pop = {
+									culture = cu:yi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yi_state
 						}
@@ -42616,14 +43438,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yue }
+								any_scope_pop = {
+									culture = cu:yue
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yue }
+								any_scope_pop = {
+									culture = cu:yue
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yue_state
 						}
@@ -42925,14 +43753,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:polynesian }
+								any_scope_pop = {
+									culture = cu:polynesian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:polynesian }
+								any_scope_pop = {
+									culture = cu:polynesian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_polynesian_state
 						}
@@ -43234,14 +44068,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hawaiian }
+								any_scope_pop = {
+									culture = cu:hawaiian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hawaiian }
+								any_scope_pop = {
+									culture = cu:hawaiian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hawaiian_state
 						}
@@ -43543,14 +44383,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:melanesian }
+								any_scope_pop = {
+									culture = cu:melanesian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:melanesian }
+								any_scope_pop = {
+									culture = cu:melanesian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_melanesian_state
 						}
@@ -43852,14 +44698,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:micronesian }
+								any_scope_pop = {
+									culture = cu:micronesian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:micronesian }
+								any_scope_pop = {
+									culture = cu:micronesian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_micronesian_state
 						}
@@ -44161,14 +45013,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maori }
+								any_scope_pop = {
+									culture = cu:maori
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maori }
+								any_scope_pop = {
+									culture = cu:maori
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_maori_state
 						}
@@ -44470,14 +45328,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yuanzhumin }
+								any_scope_pop = {
+									culture = cu:yuanzhumin
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yuanzhumin }
+								any_scope_pop = {
+									culture = cu:yuanzhumin
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yuanzhumin_state
 						}
@@ -44779,14 +45643,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:aborigine }
+								any_scope_pop = {
+									culture = cu:aborigine
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:aborigine }
+								any_scope_pop = {
+									culture = cu:aborigine
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_aborigine_state
 						}
@@ -45088,14 +45958,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zapotec }
+								any_scope_pop = {
+									culture = cu:zapotec
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zapotec }
+								any_scope_pop = {
+									culture = cu:zapotec
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_zapotec_state
 						}
@@ -45397,14 +46273,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mayan }
+								any_scope_pop = {
+									culture = cu:mayan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mayan }
+								any_scope_pop = {
+									culture = cu:mayan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mayan_state
 						}
@@ -45706,14 +46588,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nahua }
+								any_scope_pop = {
+									culture = cu:nahua
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nahua }
+								any_scope_pop = {
+									culture = cu:nahua
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nahua_state
 						}
@@ -46015,14 +46903,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tarascan }
+								any_scope_pop = {
+									culture = cu:tarascan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tarascan }
+								any_scope_pop = {
+									culture = cu:tarascan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tarascan_state
 						}
@@ -46324,14 +47218,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:quechua }
+								any_scope_pop = {
+									culture = cu:quechua
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:quechua }
+								any_scope_pop = {
+									culture = cu:quechua
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_quechua_state
 						}
@@ -46633,14 +47533,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:guarani }
+								any_scope_pop = {
+									culture = cu:guarani
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:guarani }
+								any_scope_pop = {
+									culture = cu:guarani
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_guarani_state
 						}
@@ -46942,14 +47848,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:aimara }
+								any_scope_pop = {
+									culture = cu:aimara
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:aimara }
+								any_scope_pop = {
+									culture = cu:aimara
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_aimara_state
 						}
@@ -47251,14 +48163,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amazonian }
+								any_scope_pop = {
+									culture = cu:amazonian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amazonian }
+								any_scope_pop = {
+									culture = cu:amazonian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_amazonian_state
 						}
@@ -47560,14 +48478,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:patagonian }
+								any_scope_pop = {
+									culture = cu:patagonian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:patagonian }
+								any_scope_pop = {
+									culture = cu:patagonian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_patagonian_state
 						}
@@ -47869,14 +48793,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:guajiro }
+								any_scope_pop = {
+									culture = cu:guajiro
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:guajiro }
+								any_scope_pop = {
+									culture = cu:guajiro
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_guajiro_state
 						}
@@ -48178,14 +49108,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tupinamba }
+								any_scope_pop = {
+									culture = cu:tupinamba
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tupinamba }
+								any_scope_pop = {
+									culture = cu:tupinamba
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tupinamba_state
 						}
@@ -48487,14 +49423,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:metis }
+								any_scope_pop = {
+									culture = cu:metis
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:metis }
+								any_scope_pop = {
+									culture = cu:metis
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_metis_state
 						}
@@ -48796,14 +49738,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dakota }
+								any_scope_pop = {
+									culture = cu:dakota
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dakota }
+								any_scope_pop = {
+									culture = cu:dakota
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dakota_state
 						}
@@ -49105,14 +50053,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cherokee }
+								any_scope_pop = {
+									culture = cu:cherokee
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cherokee }
+								any_scope_pop = {
+									culture = cu:cherokee
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_cherokee_state
 						}
@@ -49414,14 +50368,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:muskogean }
+								any_scope_pop = {
+									culture = cu:muskogean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:muskogean }
+								any_scope_pop = {
+									culture = cu:muskogean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_muskogean_state
 						}
@@ -49723,14 +50683,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pueblo }
+								any_scope_pop = {
+									culture = cu:pueblo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pueblo }
+								any_scope_pop = {
+									culture = cu:pueblo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_pueblo_state
 						}
@@ -50032,14 +50998,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:inuit }
+								any_scope_pop = {
+									culture = cu:inuit
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:inuit }
+								any_scope_pop = {
+									culture = cu:inuit
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_inuit_state
 						}
@@ -50341,14 +51313,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cree }
+								any_scope_pop = {
+									culture = cu:cree
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cree }
+								any_scope_pop = {
+									culture = cu:cree
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_cree_state
 						}
@@ -50650,14 +51628,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:navajo }
+								any_scope_pop = {
+									culture = cu:navajo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:navajo }
+								any_scope_pop = {
+									culture = cu:navajo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_navajo_state
 						}
@@ -50959,14 +51943,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:athabaskan }
+								any_scope_pop = {
+									culture = cu:athabaskan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:athabaskan }
+								any_scope_pop = {
+									culture = cu:athabaskan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_athabaskan_state
 						}
@@ -51268,14 +52258,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:salish }
+								any_scope_pop = {
+									culture = cu:salish
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:salish }
+								any_scope_pop = {
+									culture = cu:salish
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_salish_state
 						}
@@ -51577,14 +52573,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nez_perce }
+								any_scope_pop = {
+									culture = cu:nez_perce
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nez_perce }
+								any_scope_pop = {
+									culture = cu:nez_perce
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nez_perce_state
 						}
@@ -51886,14 +52888,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:siouan }
+								any_scope_pop = {
+									culture = cu:siouan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:siouan }
+								any_scope_pop = {
+									culture = cu:siouan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_siouan_state
 						}
@@ -52195,14 +53203,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:comanche }
+								any_scope_pop = {
+									culture = cu:comanche
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:comanche }
+								any_scope_pop = {
+									culture = cu:comanche
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_comanche_state
 						}
@@ -52504,14 +53518,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:algonquian }
+								any_scope_pop = {
+									culture = cu:algonquian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:algonquian }
+								any_scope_pop = {
+									culture = cu:algonquian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_algonquian_state
 						}
@@ -52813,14 +53833,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:iroquoian }
+								any_scope_pop = {
+									culture = cu:iroquoian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:iroquoian }
+								any_scope_pop = {
+									culture = cu:iroquoian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_iroquoian_state
 						}
@@ -53122,14 +54148,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:caddoan }
+								any_scope_pop = {
+									culture = cu:caddoan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:caddoan }
+								any_scope_pop = {
+									culture = cu:caddoan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_caddoan_state
 						}
@@ -53431,14 +54463,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paiute }
+								any_scope_pop = {
+									culture = cu:paiute
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paiute }
+								any_scope_pop = {
+									culture = cu:paiute
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_paiute_state
 						}
@@ -53740,14 +54778,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hokan }
+								any_scope_pop = {
+									culture = cu:hokan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hokan }
+								any_scope_pop = {
+									culture = cu:hokan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hokan_state
 						}
@@ -54049,14 +55093,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:apache }
+								any_scope_pop = {
+									culture = cu:apache
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:apache }
+								any_scope_pop = {
+									culture = cu:apache
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_apache_state
 						}
@@ -54358,14 +55408,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oodham }
+								any_scope_pop = {
+									culture = cu:oodham
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oodham }
+								any_scope_pop = {
+									culture = cu:oodham
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_oodham_state
 						}
@@ -54667,14 +55723,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mixtec }
+								any_scope_pop = {
+									culture = cu:mixtec
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mixtec }
+								any_scope_pop = {
+									culture = cu:mixtec
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mixtec_state
 						}
@@ -54976,14 +56038,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:muisca }
+								any_scope_pop = {
+									culture = cu:muisca
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:muisca }
+								any_scope_pop = {
+									culture = cu:muisca
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_muisca_state
 						}
@@ -55285,14 +56353,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:miskito }
+								any_scope_pop = {
+									culture = cu:miskito
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:miskito }
+								any_scope_pop = {
+									culture = cu:miskito
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_miskito_state
 						}
@@ -55594,14 +56668,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cariban }
+								any_scope_pop = {
+									culture = cu:cariban
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:cariban }
+								any_scope_pop = {
+									culture = cu:cariban
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_cariban_state
 						}
@@ -55903,14 +56983,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yankee }
+								any_scope_pop = {
+									culture = cu:yankee
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yankee }
+								any_scope_pop = {
+									culture = cu:yankee
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yankee_state
 						}
@@ -56212,14 +57298,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dixie }
+								any_scope_pop = {
+									culture = cu:dixie
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dixie }
+								any_scope_pop = {
+									culture = cu:dixie
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dixie_state
 						}
@@ -56521,14 +57613,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mexican }
+								any_scope_pop = {
+									culture = cu:mexican
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mexican }
+								any_scope_pop = {
+									culture = cu:mexican
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mexican_state
 						}
@@ -56830,14 +57928,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:central_american }
+								any_scope_pop = {
+									culture = cu:central_american
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:central_american }
+								any_scope_pop = {
+									culture = cu:central_american
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_central_american_state
 						}
@@ -57139,14 +58243,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:caribeno }
+								any_scope_pop = {
+									culture = cu:caribeno
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:caribeno }
+								any_scope_pop = {
+									culture = cu:caribeno
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_caribeno_state
 						}
@@ -57448,14 +58558,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_andean }
+								any_scope_pop = {
+									culture = cu:north_andean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:north_andean }
+								any_scope_pop = {
+									culture = cu:north_andean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_north_andean_state
 						}
@@ -57757,14 +58873,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_andean }
+								any_scope_pop = {
+									culture = cu:south_andean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:south_andean }
+								any_scope_pop = {
+									culture = cu:south_andean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_south_andean_state
 						}
@@ -58066,14 +59188,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:peruvian }
+								any_scope_pop = {
+									culture = cu:peruvian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:peruvian }
+								any_scope_pop = {
+									culture = cu:peruvian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_peruvian_state
 						}
@@ -58375,14 +59503,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bolivian }
+								any_scope_pop = {
+									culture = cu:bolivian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bolivian }
+								any_scope_pop = {
+									culture = cu:bolivian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bolivian_state
 						}
@@ -58684,14 +59818,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ecuadorian }
+								any_scope_pop = {
+									culture = cu:ecuadorian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ecuadorian }
+								any_scope_pop = {
+									culture = cu:ecuadorian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ecuadorian_state
 						}
@@ -58993,14 +60133,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chilean }
+								any_scope_pop = {
+									culture = cu:chilean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chilean }
+								any_scope_pop = {
+									culture = cu:chilean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_chilean_state
 						}
@@ -59302,14 +60448,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:venezuelan }
+								any_scope_pop = {
+									culture = cu:venezuelan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:venezuelan }
+								any_scope_pop = {
+									culture = cu:venezuelan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_venezuelan_state
 						}
@@ -59611,14 +60763,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:argentine }
+								any_scope_pop = {
+									culture = cu:argentine
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:argentine }
+								any_scope_pop = {
+									culture = cu:argentine
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_argentine_state
 						}
@@ -59920,14 +61078,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uruguayan }
+								any_scope_pop = {
+									culture = cu:uruguayan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:uruguayan }
+								any_scope_pop = {
+									culture = cu:uruguayan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_uruguayan_state
 						}
@@ -60229,14 +61393,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paraguayan }
+								any_scope_pop = {
+									culture = cu:paraguayan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paraguayan }
+								any_scope_pop = {
+									culture = cu:paraguayan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_paraguayan_state
 						}
@@ -60538,14 +61708,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:colombian }
+								any_scope_pop = {
+									culture = cu:colombian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:colombian }
+								any_scope_pop = {
+									culture = cu:colombian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_colombian_state
 						}
@@ -60847,14 +62023,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:platinean }
+								any_scope_pop = {
+									culture = cu:platinean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:platinean }
+								any_scope_pop = {
+									culture = cu:platinean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_platinean_state
 						}
@@ -61156,14 +62338,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:brazilian }
+								any_scope_pop = {
+									culture = cu:brazilian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:brazilian }
+								any_scope_pop = {
+									culture = cu:brazilian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_brazilian_state
 						}
@@ -61465,14 +62653,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sulista }
+								any_scope_pop = {
+									culture = cu:sulista
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sulista }
+								any_scope_pop = {
+									culture = cu:sulista
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sulista_state
 						}
@@ -61774,14 +62968,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nordestino }
+								any_scope_pop = {
+									culture = cu:nordestino
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nordestino }
+								any_scope_pop = {
+									culture = cu:nordestino
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nordestino_state
 						}
@@ -62083,14 +63283,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amazonic }
+								any_scope_pop = {
+									culture = cu:amazonic
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amazonic }
+								any_scope_pop = {
+									culture = cu:amazonic
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_amazonic_state
 						}
@@ -62392,14 +63598,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paulista }
+								any_scope_pop = {
+									culture = cu:paulista
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:paulista }
+								any_scope_pop = {
+									culture = cu:paulista
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_paulista_state
 						}
@@ -62701,14 +63913,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_american }
+								any_scope_pop = {
+									culture = cu:afro_american
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_american }
+								any_scope_pop = {
+									culture = cu:afro_american
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afro_american_state
 						}
@@ -63010,14 +64228,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_caribbean }
+								any_scope_pop = {
+									culture = cu:afro_caribbean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_caribbean }
+								any_scope_pop = {
+									culture = cu:afro_caribbean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afro_caribbean_state
 						}
@@ -63319,14 +64543,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_caribeno }
+								any_scope_pop = {
+									culture = cu:afro_caribeno
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_caribeno }
+								any_scope_pop = {
+									culture = cu:afro_caribeno
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afro_caribeno_state
 						}
@@ -63628,14 +64858,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_brazilian }
+								any_scope_pop = {
+									culture = cu:afro_brazilian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_brazilian }
+								any_scope_pop = {
+									culture = cu:afro_brazilian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afro_brazilian_state
 						}
@@ -63937,14 +65173,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_antillean }
+								any_scope_pop = {
+									culture = cu:afro_antillean
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afro_antillean }
+								any_scope_pop = {
+									culture = cu:afro_antillean
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afro_antillean_state
 						}
@@ -64246,14 +65488,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:akan }
+								any_scope_pop = {
+									culture = cu:akan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:akan }
+								any_scope_pop = {
+									culture = cu:akan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_akan_state
 						}
@@ -64555,14 +65803,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bambara }
+								any_scope_pop = {
+									culture = cu:bambara
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bambara }
+								any_scope_pop = {
+									culture = cu:bambara
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bambara_state
 						}
@@ -64864,14 +66118,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bassa }
+								any_scope_pop = {
+									culture = cu:bassa
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bassa }
+								any_scope_pop = {
+									culture = cu:bassa
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bassa_state
 						}
@@ -65173,14 +66433,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dyula }
+								any_scope_pop = {
+									culture = cu:dyula
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dyula }
+								any_scope_pop = {
+									culture = cu:dyula
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dyula_state
 						}
@@ -65482,14 +66748,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:edo }
+								any_scope_pop = {
+									culture = cu:edo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:edo }
+								any_scope_pop = {
+									culture = cu:edo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_edo_state
 						}
@@ -65791,14 +67063,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ewe }
+								any_scope_pop = {
+									culture = cu:ewe
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ewe }
+								any_scope_pop = {
+									culture = cu:ewe
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ewe_state
 						}
@@ -66100,14 +67378,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fon }
+								any_scope_pop = {
+									culture = cu:fon
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fon }
+								any_scope_pop = {
+									culture = cu:fon
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_fon_state
 						}
@@ -66409,14 +67693,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fulbe }
+								any_scope_pop = {
+									culture = cu:fulbe
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fulbe }
+								any_scope_pop = {
+									culture = cu:fulbe
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_fulbe_state
 						}
@@ -66718,14 +68008,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:haratin }
+								any_scope_pop = {
+									culture = cu:haratin
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:haratin }
+								any_scope_pop = {
+									culture = cu:haratin
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_haratin_state
 						}
@@ -67027,14 +68323,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hausa }
+								any_scope_pop = {
+									culture = cu:hausa
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hausa }
+								any_scope_pop = {
+									culture = cu:hausa
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hausa_state
 						}
@@ -67336,14 +68638,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ibibio }
+								any_scope_pop = {
+									culture = cu:ibibio
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ibibio }
+								any_scope_pop = {
+									culture = cu:ibibio
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ibibio_state
 						}
@@ -67645,14 +68953,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ibo }
+								any_scope_pop = {
+									culture = cu:ibo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ibo }
+								any_scope_pop = {
+									culture = cu:ibo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ibo_state
 						}
@@ -67954,14 +69268,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kissi }
+								any_scope_pop = {
+									culture = cu:kissi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kissi }
+								any_scope_pop = {
+									culture = cu:kissi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kissi_state
 						}
@@ -68263,14 +69583,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kru }
+								any_scope_pop = {
+									culture = cu:kru
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kru }
+								any_scope_pop = {
+									culture = cu:kru
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kru_state
 						}
@@ -68572,14 +69898,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mande }
+								any_scope_pop = {
+									culture = cu:mande
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mande }
+								any_scope_pop = {
+									culture = cu:mande
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mande_state
 						}
@@ -68881,14 +70213,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bidan }
+								any_scope_pop = {
+									culture = cu:bidan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bidan }
+								any_scope_pop = {
+									culture = cu:bidan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bidan_state
 						}
@@ -69190,14 +70528,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mossi }
+								any_scope_pop = {
+									culture = cu:mossi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mossi }
+								any_scope_pop = {
+									culture = cu:mossi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mossi_state
 						}
@@ -69499,14 +70843,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:senufo }
+								any_scope_pop = {
+									culture = cu:senufo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:senufo }
+								any_scope_pop = {
+									culture = cu:senufo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_senufo_state
 						}
@@ -69808,14 +71158,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:songhai }
+								any_scope_pop = {
+									culture = cu:songhai
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:songhai }
+								any_scope_pop = {
+									culture = cu:songhai
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_songhai_state
 						}
@@ -70117,14 +71473,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tiv }
+								any_scope_pop = {
+									culture = cu:tiv
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tiv }
+								any_scope_pop = {
+									culture = cu:tiv
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tiv_state
 						}
@@ -70426,14 +71788,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tuareg }
+								any_scope_pop = {
+									culture = cu:tuareg
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tuareg }
+								any_scope_pop = {
+									culture = cu:tuareg
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tuareg_state
 						}
@@ -70735,14 +72103,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:wolof }
+								any_scope_pop = {
+									culture = cu:wolof
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:wolof }
+								any_scope_pop = {
+									culture = cu:wolof
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_wolof_state
 						}
@@ -71044,14 +72418,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yoruba }
+								any_scope_pop = {
+									culture = cu:yoruba
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yoruba }
+								any_scope_pop = {
+									culture = cu:yoruba
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yoruba_state
 						}
@@ -71353,14 +72733,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bakongo }
+								any_scope_pop = {
+									culture = cu:bakongo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bakongo }
+								any_scope_pop = {
+									culture = cu:bakongo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bakongo_state
 						}
@@ -71662,14 +73048,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baguirmi }
+								any_scope_pop = {
+									culture = cu:baguirmi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baguirmi }
+								any_scope_pop = {
+									culture = cu:baguirmi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_baguirmi_state
 						}
@@ -71971,14 +73363,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fang }
+								any_scope_pop = {
+									culture = cu:fang
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fang }
+								any_scope_pop = {
+									culture = cu:fang
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_fang_state
 						}
@@ -72280,14 +73678,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kanuri }
+								any_scope_pop = {
+									culture = cu:kanuri
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kanuri }
+								any_scope_pop = {
+									culture = cu:kanuri
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kanuri_state
 						}
@@ -72589,14 +73993,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luba }
+								any_scope_pop = {
+									culture = cu:luba
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luba }
+								any_scope_pop = {
+									culture = cu:luba
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_luba_state
 						}
@@ -72898,14 +74308,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lunda }
+								any_scope_pop = {
+									culture = cu:lunda
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lunda }
+								any_scope_pop = {
+									culture = cu:lunda
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lunda_state
 						}
@@ -73207,14 +74623,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mongo }
+								any_scope_pop = {
+									culture = cu:mongo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:mongo }
+								any_scope_pop = {
+									culture = cu:mongo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_mongo_state
 						}
@@ -73516,14 +74938,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sara }
+								any_scope_pop = {
+									culture = cu:sara
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sara }
+								any_scope_pop = {
+									culture = cu:sara
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sara_state
 						}
@@ -73825,14 +75253,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:teda }
+								any_scope_pop = {
+									culture = cu:teda
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:teda }
+								any_scope_pop = {
+									culture = cu:teda
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_teda_state
 						}
@@ -74134,14 +75568,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:equatorial_bantu }
+								any_scope_pop = {
+									culture = cu:equatorial_bantu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:equatorial_bantu }
+								any_scope_pop = {
+									culture = cu:equatorial_bantu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_equatorial_bantu_state
 						}
@@ -74443,14 +75883,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fluvian_bantu }
+								any_scope_pop = {
+									culture = cu:fluvian_bantu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fluvian_bantu }
+								any_scope_pop = {
+									culture = cu:fluvian_bantu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_fluvian_bantu_state
 						}
@@ -74752,14 +76198,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nilotic }
+								any_scope_pop = {
+									culture = cu:nilotic
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nilotic }
+								any_scope_pop = {
+									culture = cu:nilotic
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nilotic_state
 						}
@@ -75061,14 +76513,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amhara }
+								any_scope_pop = {
+									culture = cu:amhara
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:amhara }
+								any_scope_pop = {
+									culture = cu:amhara
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_amhara_state
 						}
@@ -75370,14 +76828,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afar }
+								any_scope_pop = {
+									culture = cu:afar
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:afar }
+								any_scope_pop = {
+									culture = cu:afar
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_afar_state
 						}
@@ -75679,14 +77143,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:azande }
+								any_scope_pop = {
+									culture = cu:azande
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:azande }
+								any_scope_pop = {
+									culture = cu:azande
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_azande_state
 						}
@@ -75988,14 +77458,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baganda }
+								any_scope_pop = {
+									culture = cu:baganda
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:baganda }
+								any_scope_pop = {
+									culture = cu:baganda
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_baganda_state
 						}
@@ -76297,14 +77773,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:beja }
+								any_scope_pop = {
+									culture = cu:beja
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:beja }
+								any_scope_pop = {
+									culture = cu:beja
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_beja_state
 						}
@@ -76606,14 +78088,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dinka }
+								any_scope_pop = {
+									culture = cu:dinka
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:dinka }
+								any_scope_pop = {
+									culture = cu:dinka
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_dinka_state
 						}
@@ -76915,14 +78403,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fur }
+								any_scope_pop = {
+									culture = cu:fur
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:fur }
+								any_scope_pop = {
+									culture = cu:fur
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_fur_state
 						}
@@ -77224,14 +78718,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kikuyu }
+								any_scope_pop = {
+									culture = cu:kikuyu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kikuyu }
+								any_scope_pop = {
+									culture = cu:kikuyu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kikuyu_state
 						}
@@ -77533,14 +79033,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luo }
+								any_scope_pop = {
+									culture = cu:luo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:luo }
+								any_scope_pop = {
+									culture = cu:luo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_luo_state
 						}
@@ -77842,14 +79348,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maasai }
+								any_scope_pop = {
+									culture = cu:maasai
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:maasai }
+								any_scope_pop = {
+									culture = cu:maasai
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_maasai_state
 						}
@@ -78151,14 +79663,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nuer }
+								any_scope_pop = {
+									culture = cu:nuer
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nuer }
+								any_scope_pop = {
+									culture = cu:nuer
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nuer_state
 						}
@@ -78460,14 +79978,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nuba }
+								any_scope_pop = {
+									culture = cu:nuba
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nuba }
+								any_scope_pop = {
+									culture = cu:nuba
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nuba_state
 						}
@@ -78769,14 +80293,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oromo }
+								any_scope_pop = {
+									culture = cu:oromo
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:oromo }
+								any_scope_pop = {
+									culture = cu:oromo
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_oromo_state
 						}
@@ -79078,14 +80608,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ruanda }
+								any_scope_pop = {
+									culture = cu:ruanda
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ruanda }
+								any_scope_pop = {
+									culture = cu:ruanda
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ruanda_state
 						}
@@ -79387,14 +80923,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:rundi }
+								any_scope_pop = {
+									culture = cu:rundi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:rundi }
+								any_scope_pop = {
+									culture = cu:rundi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_rundi_state
 						}
@@ -79696,14 +81238,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sidama }
+								any_scope_pop = {
+									culture = cu:sidama
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sidama }
+								any_scope_pop = {
+									culture = cu:sidama
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sidama_state
 						}
@@ -80005,14 +81553,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:somali }
+								any_scope_pop = {
+									culture = cu:somali
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:somali }
+								any_scope_pop = {
+									culture = cu:somali
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_somali_state
 						}
@@ -80314,14 +81868,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sudanese }
+								any_scope_pop = {
+									culture = cu:sudanese
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sudanese }
+								any_scope_pop = {
+									culture = cu:sudanese
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sudanese_state
 						}
@@ -80623,14 +82183,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sukuma }
+								any_scope_pop = {
+									culture = cu:sukuma
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sukuma }
+								any_scope_pop = {
+									culture = cu:sukuma
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sukuma_state
 						}
@@ -80932,14 +82498,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:swahili }
+								any_scope_pop = {
+									culture = cu:swahili
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:swahili }
+								any_scope_pop = {
+									culture = cu:swahili
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_swahili_state
 						}
@@ -81241,14 +82813,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tigray }
+								any_scope_pop = {
+									culture = cu:tigray
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tigray }
+								any_scope_pop = {
+									culture = cu:tigray
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tigray_state
 						}
@@ -81550,14 +83128,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:unyamwezi }
+								any_scope_pop = {
+									culture = cu:unyamwezi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:unyamwezi }
+								any_scope_pop = {
+									culture = cu:unyamwezi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_unyamwezi_state
 						}
@@ -81859,14 +83443,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lacustrine_bantu }
+								any_scope_pop = {
+									culture = cu:lacustrine_bantu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lacustrine_bantu }
+								any_scope_pop = {
+									culture = cu:lacustrine_bantu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lacustrine_bantu_state
 						}
@@ -82168,14 +83758,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chewa }
+								any_scope_pop = {
+									culture = cu:chewa
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chewa }
+								any_scope_pop = {
+									culture = cu:chewa
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_chewa_state
 						}
@@ -82477,14 +84073,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:herero }
+								any_scope_pop = {
+									culture = cu:herero
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:herero }
+								any_scope_pop = {
+									culture = cu:herero
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_herero_state
 						}
@@ -82786,14 +84388,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khoisan }
+								any_scope_pop = {
+									culture = cu:khoisan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:khoisan }
+								any_scope_pop = {
+									culture = cu:khoisan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_khoisan_state
 						}
@@ -83095,14 +84703,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lomwe }
+								any_scope_pop = {
+									culture = cu:lomwe
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lomwe }
+								any_scope_pop = {
+									culture = cu:lomwe
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lomwe_state
 						}
@@ -83404,14 +85018,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:makua }
+								any_scope_pop = {
+									culture = cu:makua
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:makua }
+								any_scope_pop = {
+									culture = cu:makua
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_makua_state
 						}
@@ -83713,14 +85333,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nguni }
+								any_scope_pop = {
+									culture = cu:nguni
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:nguni }
+								any_scope_pop = {
+									culture = cu:nguni
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_nguni_state
 						}
@@ -84022,14 +85648,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ovimbundu }
+								any_scope_pop = {
+									culture = cu:ovimbundu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:ovimbundu }
+								any_scope_pop = {
+									culture = cu:ovimbundu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_ovimbundu_state
 						}
@@ -84331,14 +85963,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sena }
+								any_scope_pop = {
+									culture = cu:sena
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sena }
+								any_scope_pop = {
+									culture = cu:sena
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sena_state
 						}
@@ -84640,14 +86278,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:shona }
+								any_scope_pop = {
+									culture = cu:shona
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:shona }
+								any_scope_pop = {
+									culture = cu:shona
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_shona_state
 						}
@@ -84949,14 +86593,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sotho }
+								any_scope_pop = {
+									culture = cu:sotho
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sotho }
+								any_scope_pop = {
+									culture = cu:sotho
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sotho_state
 						}
@@ -85258,14 +86908,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tonga }
+								any_scope_pop = {
+									culture = cu:tonga
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tonga }
+								any_scope_pop = {
+									culture = cu:tonga
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tonga_state
 						}
@@ -85567,14 +87223,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tswana }
+								any_scope_pop = {
+									culture = cu:tswana
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tswana }
+								any_scope_pop = {
+									culture = cu:tswana
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tswana_state
 						}
@@ -85876,14 +87538,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:xhosa }
+								any_scope_pop = {
+									culture = cu:xhosa
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:xhosa }
+								any_scope_pop = {
+									culture = cu:xhosa
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_xhosa_state
 						}
@@ -86185,14 +87853,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yao }
+								any_scope_pop = {
+									culture = cu:yao
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yao }
+								any_scope_pop = {
+									culture = cu:yao
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yao_state
 						}
@@ -86494,14 +88168,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zulu }
+								any_scope_pop = {
+									culture = cu:zulu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:zulu }
+								any_scope_pop = {
+									culture = cu:zulu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_zulu_state
 						}
@@ -86803,14 +88483,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kavango_bantu }
+								any_scope_pop = {
+									culture = cu:kavango_bantu
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:kavango_bantu }
+								any_scope_pop = {
+									culture = cu:kavango_bantu
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_kavango_bantu_state
 						}
@@ -87112,14 +88798,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:anglo_canadian }
+								any_scope_pop = {
+									culture = cu:anglo_canadian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:anglo_canadian }
+								any_scope_pop = {
+									culture = cu:anglo_canadian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_anglo_canadian_state
 						}
@@ -87421,14 +89113,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:franco_canadian }
+								any_scope_pop = {
+									culture = cu:franco_canadian
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:franco_canadian }
+								any_scope_pop = {
+									culture = cu:franco_canadian
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_franco_canadian_state
 						}
@@ -87730,14 +89428,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sorb }
+								any_scope_pop = {
+									culture = cu:sorb
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:sorb }
+								any_scope_pop = {
+									culture = cu:sorb
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_sorb_state
 						}
@@ -88039,14 +89743,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tuvan }
+								any_scope_pop = {
+									culture = cu:tuvan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tuvan }
+								any_scope_pop = {
+									culture = cu:tuvan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tuvan_state
 						}
@@ -88348,14 +90058,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:corsican }
+								any_scope_pop = {
+									culture = cu:corsican
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:corsican }
+								any_scope_pop = {
+									culture = cu:corsican
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_corsican_state
 						}
@@ -88657,14 +90373,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yemenite }
+								any_scope_pop = {
+									culture = cu:yemenite
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:yemenite }
+								any_scope_pop = {
+									culture = cu:yemenite
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_yemenite_state
 						}
@@ -88966,14 +90688,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:szekely }
+								any_scope_pop = {
+									culture = cu:szekely
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:szekely }
+								any_scope_pop = {
+									culture = cu:szekely
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_szekely_state
 						}
@@ -89275,14 +91003,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hindustani }
+								any_scope_pop = {
+									culture = cu:hindustani
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:hindustani }
+								any_scope_pop = {
+									culture = cu:hindustani
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_hindustani_state
 						}
@@ -89584,14 +91318,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lushai }
+								any_scope_pop = {
+									culture = cu:lushai
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:lushai }
+								any_scope_pop = {
+									culture = cu:lushai
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_lushai_state
 						}
@@ -89893,14 +91633,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bundeli }
+								any_scope_pop = {
+									culture = cu:bundeli
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bundeli }
+								any_scope_pop = {
+									culture = cu:bundeli
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bundeli_state
 						}
@@ -90202,14 +91948,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pahari }
+								any_scope_pop = {
+									culture = cu:pahari
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pahari }
+								any_scope_pop = {
+									culture = cu:pahari
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_pahari_state
 						}
@@ -90511,14 +92263,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:gondi }
+								any_scope_pop = {
+									culture = cu:gondi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:gondi }
+								any_scope_pop = {
+									culture = cu:gondi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_gondi_state
 						}
@@ -90820,14 +92578,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bageli }
+								any_scope_pop = {
+									culture = cu:bageli
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bageli }
+								any_scope_pop = {
+									culture = cu:bageli
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bageli_state
 						}
@@ -91129,14 +92893,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chhattisgarhi }
+								any_scope_pop = {
+									culture = cu:chhattisgarhi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:chhattisgarhi }
+								any_scope_pop = {
+									culture = cu:chhattisgarhi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_chhattisgarhi_state
 						}
@@ -91438,14 +93208,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:naga }
+								any_scope_pop = {
+									culture = cu:naga
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:naga }
+								any_scope_pop = {
+									culture = cu:naga
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_naga_state
 						}
@@ -91747,14 +93523,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:deccani }
+								any_scope_pop = {
+									culture = cu:deccani
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:deccani }
+								any_scope_pop = {
+									culture = cu:deccani
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_deccani_state
 						}
@@ -92056,14 +93838,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:gujarati }
+								any_scope_pop = {
+									culture = cu:gujarati
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:gujarati }
+								any_scope_pop = {
+									culture = cu:gujarati
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_gujarati_state
 						}
@@ -92365,14 +94153,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tamil }
+								any_scope_pop = {
+									culture = cu:tamil
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:tamil }
+								any_scope_pop = {
+									culture = cu:tamil
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_tamil_state
 						}
@@ -92674,14 +94468,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bengali }
+								any_scope_pop = {
+									culture = cu:bengali
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:bengali }
+								any_scope_pop = {
+									culture = cu:bengali
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_bengali_state
 						}
@@ -92983,14 +94783,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:marathi }
+								any_scope_pop = {
+									culture = cu:marathi
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:marathi }
+								any_scope_pop = {
+									culture = cu:marathi
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_marathi_state
 						}
@@ -93292,14 +95098,20 @@ migration_fixes.1 = {
 							any_scope_state = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pathan }
+								any_scope_pop = {
+									culture = cu:pathan
+									total_size > 0
+								}
 							}
 						}
 						random_scope_state = {
 							limit = {
 								owner = ROOT
 								is_capital = no
-								any_scope_pop = { culture = cu:pathan }
+								any_scope_pop = {
+									culture = cu:pathan
+									total_size > 0
+								}
 							}
 							save_temporary_scope_as = migration_fixes_home_pathan_state
 						}
