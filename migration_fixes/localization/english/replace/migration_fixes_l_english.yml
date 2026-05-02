@@ -1,3 +1,5 @@
 ﻿l_english:
- je_migration_fixes:0 "Assorted Migration Fixes"
- je_migration_fixes_reason:0 ""
+ migration_fixes: "Assorted Migration Fixes"
+ migration_fixes_desc: "Assorted Migration Fixes doesn't appear to be running. It can be manually started by taking this decision."
+ je_migration_fixes: "Assorted Migration Fixes (Automatic Start)"
+ je_migration_fixes_reason: "Will start running automatically at the end of the month."
