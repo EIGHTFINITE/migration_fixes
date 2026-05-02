@@ -1,0 +1,212 @@
+﻿migration_fixes = {
+	is_shown = {
+		is_player = yes
+		game_date > 1836.2.1
+		OR = {
+			NOT = { has_global_variable = migration_fixes_active }
+			AND = {
+				month = 0
+				NOT = { has_global_variable = migration_fixes_dec }
+				NOT = { has_global_variable = migration_fixes_jan }
+			}
+			AND = {
+				month = 1
+				NOT = { has_global_variable = migration_fixes_jan }
+				NOT = { has_global_variable = migration_fixes_feb }
+			}
+			AND = {
+				month = 2
+				NOT = { has_global_variable = migration_fixes_feb }
+				NOT = { has_global_variable = migration_fixes_mar }
+			}
+			AND = {
+				month = 3
+				NOT = { has_global_variable = migration_fixes_mar }
+				NOT = { has_global_variable = migration_fixes_apr }
+			}
+			AND = {
+				month = 4
+				NOT = { has_global_variable = migration_fixes_apr }
+				NOT = { has_global_variable = migration_fixes_may }
+			}
+			AND = {
+				month = 5
+				NOT = { has_global_variable = migration_fixes_may }
+				NOT = { has_global_variable = migration_fixes_jun }
+			}
+			AND = {
+				month = 6
+				NOT = { has_global_variable = migration_fixes_jun }
+				NOT = { has_global_variable = migration_fixes_jul }
+			}
+			AND = {
+				month = 7
+				NOT = { has_global_variable = migration_fixes_jul }
+				NOT = { has_global_variable = migration_fixes_aug }
+			}
+			AND = {
+				month = 8
+				NOT = { has_global_variable = migration_fixes_aug }
+				NOT = { has_global_variable = migration_fixes_sep }
+			}
+			AND = {
+				month = 9
+				NOT = { has_global_variable = migration_fixes_sep }
+				NOT = { has_global_variable = migration_fixes_oct }
+			}
+			AND = {
+				month = 10
+				NOT = { has_global_variable = migration_fixes_oct }
+				NOT = { has_global_variable = migration_fixes_nov }
+			}
+			AND = {
+				month = 11
+				NOT = { has_global_variable = migration_fixes_nov }
+				NOT = { has_global_variable = migration_fixes_dec }
+			}
+		}
+	}
+
+	possible = {
+		hidden_trigger = {
+			is_player = yes
+			game_date > 1836.2.1
+			OR = {
+				NOT = { has_global_variable = migration_fixes_active }
+				AND = {
+					month = 0
+					NOT = { has_global_variable = migration_fixes_dec }
+					NOT = { has_global_variable = migration_fixes_jan }
+				}
+				AND = {
+					month = 1
+					NOT = { has_global_variable = migration_fixes_jan }
+					NOT = { has_global_variable = migration_fixes_feb }
+				}
+				AND = {
+					month = 2
+					NOT = { has_global_variable = migration_fixes_feb }
+					NOT = { has_global_variable = migration_fixes_mar }
+				}
+				AND = {
+					month = 3
+					NOT = { has_global_variable = migration_fixes_mar }
+					NOT = { has_global_variable = migration_fixes_apr }
+				}
+				AND = {
+					month = 4
+					NOT = { has_global_variable = migration_fixes_apr }
+					NOT = { has_global_variable = migration_fixes_may }
+				}
+				AND = {
+					month = 5
+					NOT = { has_global_variable = migration_fixes_may }
+					NOT = { has_global_variable = migration_fixes_jun }
+				}
+				AND = {
+					month = 6
+					NOT = { has_global_variable = migration_fixes_jun }
+					NOT = { has_global_variable = migration_fixes_jul }
+				}
+				AND = {
+					month = 7
+					NOT = { has_global_variable = migration_fixes_jul }
+					NOT = { has_global_variable = migration_fixes_aug }
+				}
+				AND = {
+					month = 8
+					NOT = { has_global_variable = migration_fixes_aug }
+					NOT = { has_global_variable = migration_fixes_sep }
+				}
+				AND = {
+					month = 9
+					NOT = { has_global_variable = migration_fixes_sep }
+					NOT = { has_global_variable = migration_fixes_oct }
+				}
+				AND = {
+					month = 10
+					NOT = { has_global_variable = migration_fixes_oct }
+					NOT = { has_global_variable = migration_fixes_nov }
+				}
+				AND = {
+					month = 11
+					NOT = { has_global_variable = migration_fixes_nov }
+					NOT = { has_global_variable = migration_fixes_dec }
+				}
+			}
+		}
+	}
+
+	when_taken = {
+		if = {
+			limit = {
+				is_player = yes
+				game_date > 1836.2.1
+				OR = {
+					NOT = { has_global_variable = migration_fixes_active }
+					AND = {
+						month = 0
+						NOT = { has_global_variable = migration_fixes_dec }
+						NOT = { has_global_variable = migration_fixes_jan }
+					}
+					AND = {
+						month = 1
+						NOT = { has_global_variable = migration_fixes_jan }
+						NOT = { has_global_variable = migration_fixes_feb }
+					}
+					AND = {
+						month = 2
+						NOT = { has_global_variable = migration_fixes_feb }
+						NOT = { has_global_variable = migration_fixes_mar }
+					}
+					AND = {
+						month = 3
+						NOT = { has_global_variable = migration_fixes_mar }
+						NOT = { has_global_variable = migration_fixes_apr }
+					}
+					AND = {
+						month = 4
+						NOT = { has_global_variable = migration_fixes_apr }
+						NOT = { has_global_variable = migration_fixes_may }
+					}
+					AND = {
+						month = 5
+						NOT = { has_global_variable = migration_fixes_may }
+						NOT = { has_global_variable = migration_fixes_jun }
+					}
+					AND = {
+						month = 6
+						NOT = { has_global_variable = migration_fixes_jun }
+						NOT = { has_global_variable = migration_fixes_jul }
+					}
+					AND = {
+						month = 7
+						NOT = { has_global_variable = migration_fixes_jul }
+						NOT = { has_global_variable = migration_fixes_aug }
+					}
+					AND = {
+						month = 8
+						NOT = { has_global_variable = migration_fixes_aug }
+						NOT = { has_global_variable = migration_fixes_sep }
+					}
+					AND = {
+						month = 9
+						NOT = { has_global_variable = migration_fixes_sep }
+						NOT = { has_global_variable = migration_fixes_oct }
+					}
+					AND = {
+						month = 10
+						NOT = { has_global_variable = migration_fixes_oct }
+						NOT = { has_global_variable = migration_fixes_nov }
+					}
+					AND = {
+						month = 11
+						NOT = { has_global_variable = migration_fixes_nov }
+						NOT = { has_global_variable = migration_fixes_dec }
+					}
+				}
+			}
+			trigger_event = { id = migration_fixes.1 }
+		}
+	}
+}

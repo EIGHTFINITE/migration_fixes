@@ -4,24 +4,28 @@
 	group = je_group_crises
 
 	is_shown_when_inactive = {
-		NOT = { has_variable = migration_fixes_active }
+		is_player = yes
+		NOT = { has_global_variable = migration_fixes_active }
 	}
 
 	possible = {
-		hidden_trigger = { NOT = { has_variable = migration_fixes_active } }
+		hidden_trigger = {
+			is_player = yes
+			NOT = { has_global_variable = migration_fixes_active }
+		}
 	}
 
 	immediate = {
 		if = {
 			limit = {
-				NOT = { has_variable = migration_fixes_active }
+				NOT = { has_global_variable = migration_fixes_active }
 			}
 			trigger_event = { id = migration_fixes.1 }
 		}
 	}
 
 	complete = {
-		has_variable = migration_fixes_active
+		has_global_variable = migration_fixes_active
 	}
 
 	weight = 0
